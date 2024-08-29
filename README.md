@@ -1,3 +1,4 @@
+
 # Project Disney Movies 🎥👸🤴🏰 🐲 
 
 ### The Team:
@@ -79,3 +80,5 @@ There was no strong correlation between running time and box office performance,
 Movies based on books or novels generally performed better un terms of IMDb ratings, supporting the hypothesis that existing fanbases contribute to popularity. 
 
 These conclusions are drawn from the data analysis process, including SQL queries, statistical testing, and visualization of results, ensuring that the findings are based on empirical evidence from the dataset.
+
+
