@@ -1,0 +1,161 @@
+title,running_time,budget,box_office,release_date,imdb,metascore,rotten_tomatoes,directed_by,genre,total_gross,inflation_adjusted_gross,year,book_title,book_writer
+Pinocchio,88,2600000,164000000,1940-02-07,7.4,99,100,"['Ben Sharpsteen', 'Hamilton Luske', 'Bill Roberts', 'Norman Ferguson', 'Jack Kinney', 'Wilfred Jackson', 'T. Hee']",Adventure,84300000,2188229052,1940,The Adventures of Pinocchio,Carlo Collodi
+Fantasia,126,2280000,83300000,1940-11-13,7.8,96,95,"['Samuel Armstrong', 'James Algar', 'Bill Roberts', 'Paul Satterfield', 'Ben Sharpsteen', 'David D. Hand', 'Hamilton Luske', 'Jim Handley', 'Ford Beebe', 'T. Hee', 'Norman Ferguson', 'Wilfred Jackson']",Musical,83320000,2187090808,1940,Not based on books,Not found
+Song of the South,94,2125000,65000000,1946-11-12,7.1,54,50,"['Live action ', 'Harve Foster', 'Animation ', 'Wilfred Jackson']",Adventure,65000000,1078510579,1946,Uncle Remus,Joel Chandler Harris
+Cinderella,74,2900000,263600000,1950-02-15,6.9,67,84,"['Clyde Geronimi', 'Hamilton Luske', 'Wilfred Jackson']",Drama,85000000,920608730,1950,Cinderella,Charles Perrault
+Alice in Wonderland,75,3000000,5600000,1951-07-26,6.4,53,51,"['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske']",Adventure,334191110,357063499,1951,Alice's Adventures in Wonderland and Through the Looking-Glass,Lewis Carroll
+"20,000 Leagues Under the Sea",127,5000000,28200000,1954-12-23,7.2,83,89,Richard Fleischer,Adventure,28200000,528279994,1954,Twenty Thousand Leagues Under the Sea,Jules Verne
+Lady and the Tramp,76,4000000,187000000,1955-06-22,7.3,78,93,"['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske']",Drama,93600000,1236035515,1955,"Happy Dan, The Cynical Dog",Ward Greene
+Sleeping Beauty,75,6000000,51600000,1959-01-29,7.2,85,89,"['Clyde Geronimi  supervising ', 'Eric Larson', 'Wolfgang Reitherman', 'Les Clark']",Drama,9464608,21505832,1959,Sleeping Beauty,Charles Perrault
+The Shaggy Dog,104,1000000,12300000,1959-03-19,4.4,43,26,Charles Barton,Comedy,61123569,78667428,1959,The Hound of Florence,Felix Salten
+Babes in Toyland,105,3000000,4600000,1961-12-14,6.3,55,36,Jack Donohue,Musical,10218316,124841160,1961,Babes in Toyland,Victor Herbert and Glen MacDonough
+The Sword in the Stone,79,3000000,22200000,1963-12-25,7.2,61,66,Wolfgang Reitherman,Adventure,22182353,153870834,1963,The Sword in the Stone,T. H. White
+The Jungle Book,78,4000000,378000000,1967-10-18,7.4,77,94,Wolfgang Reitherman,Musical,141843000,789612346,1967,The Jungle Book,Rudyard Kipling
+The Aristocats,79,4000000,191000000,1970-12-11,7.1,66,64,Wolfgang Reitherman,Musical,55675257,255161499,1970,The Aristocats,Tom McGowan and Tom Rowe
+Bedknobs and Broomsticks,118,6300000,17900000,1971-10-07,7.1,59,66,Robert Stevenson,Musical,17871174,91305448,1971,The Magic Bedknob   Bonfires and Broomsticks,Mary Norton
+Freaky Friday,95,5000000,36000000,1976-12-17,6.2,70,88,Gary Nelson,Comedy,25942000,98067733,1976,Freaky Friday,Mary Rodgers
+The Rescuers,77,7500000,169000000,1977-06-22,6.9,74,81,"['Wolfgang Reitherman', 'John Lounsbery', 'Art Stevens']",Adventure,48775599,159743914,1977,The Rescuers and Miss Bianca,Margery Sharp
+The Fox and the Hound,83,12000000,63500000,1981-07-10,7.3,65,70,"['Ted Berman', 'Richard Rich', 'Art Stevens']",Comedy,43899231,133118889,1981,The Fox and the Hound,Daniel P. Mannix
+Tex,103,5000000,7400000,1982-07-30,6.5,78,85,Tim Hunter,Drama,7199408,20643199,1982,Tex,S. E. Hinton
+Return to Oz,113,28000000,11100000,1985-06-21,6.7,42,53,Walter Murch,Adventure,10618813,25215934,1985,The Marvelous Land of Oz and Ozma of Oz,L. Frank Baum
+The Black Cauldron,80,25000000,21300000,1985-07-26,6.4,59,53,"['Ted Berman', 'Richard Rich']",Adventure,21288692,50553142,1985,The Book of Three and The Black Cauldron,Lloyd Alexander
+The Great Mouse Detective,74,14000000,38700000,1986-07-02,7.2,73,80,"['Ron Clements', 'Burny Mattinson', 'Dave Michener', 'John Musker']",Adventure,23605534,53637367,1986,Basil of Baker Street,Eve Titus and Paul Galdone
+Flight of the Navigator,90,9000000,18564613,1986-08-01,6.9,64,84,Randal Kleiser,Adventure,18564613,42183197,1986,Not based on books,Not found
+Oliver   Company,74,31000000,121000000,1988-11-18,6.7,58,50,George Scribner,Adventure,49576671,102254492,1988,Oliver Twist,Charles Dickens
+"Honey, I Shrunk the Kids",93,18000000,222700000,1989-06-23,6.4,63,76,Joe Johnston,Adventure,130724172,276191669,1989,Not based on books,Not found
+White Fang,107,14000000,34800000,1991-01-18,6.7,62,65,Randal Kleiser,Adventure,34729091,69540672,1991,White Fang,Jack London
+The Rocketeer,108,35000000,46700000,1991-06-21,6.5,61,65,Joe Johnston,Action,46573027,93256673,1991,The Rocketeer,Dave Stevens
+Beauty and the Beast,84,25000000,440100000,1991-09-29,8.0,95,94,"['Gary Trousdale', 'Kirk Wise']",Musical,218951625,363017667,1991,Beauty and the Beast,Jeanne-Marie Leprince de Beaumont
+The Mighty Ducks,104,14000000,50800000,1992-10-02,6.5,46,23,Stephen Herek,Comedy,50752337,103120810,1992,Not based on books,Not found
+Aladdin,90,28000000,504100000,1992-11-25,8.0,86,95,"['John Musker', 'Ron Clements']",Comedy,217350219,441969178,1992,Aladdin and the Magic Lamp from One Thousand and One Nights,Not found
+The Muppet Christmas Carol,86,12000000,27200000,1992-12-11,7.7,64,76,Brian Henson,Comedy,27281507,55417615,1992,A Christmas Carol,Charles Dickens
+Cool Runnings,98,17000000,154900000,1993-10-01,7.0,60,76,Jon Turteltaub,Comedy,68856263,140392731,1993,Not based on books,Not found
+The Three Musketeers,105,30000000,53900000,1993-11-12,5.7,35,26,Stephen Herek,Adventure,53661805,109310377,1993,by,Not found
+Blank Check,94,13000000,30600000,1994-02-11,5.3,42,9,Rupert Wainwright,Comedy,30573770,63170804,1994,Not based on books,Not found
+The Lion King,88,45000000,968500000,1994-06-15,8.5,88,93,"['Roger Allers', 'Rob Minkoff']",Adventure,422780140,761640898,1994,Hamlet,William Shakespeare
+Angels in the Outfield,102,31000000,50200000,1994-07-15,6.2,44,33,William Dear,Comedy,50236831,103798152,1994,Angels in the Outfield,Dorothy Kingsley George Wells
+The Santa Clause,97,22000000,189800000,1994-11-11,6.5,57,71,John Pasquin,Comedy,144833357,298369717,1994,Not based on books,Not found
+Man of the House,96,22000000,40070995,1995-03-03,5.4,35,9,James Orr,Comedy,40029009,77573459,1995,Not based on books,Not found
+Pocahontas,81,55000000,346100000,1995-06-23,6.7,58,55,"['Mike Gabriel', 'Eric Goldberg']",Adventure,141579773,274370957,1995,Pocahontas,Not found
+Operation Dumbo Drop,108,24000000,24670346,1995-07-28,5.1,48,31,Simon Wincer,Adventure,24670346,47809421,1995,Not based on books,Not found
+A Kid in King Arthur's Court,89,15000000,13400000,1995-08-11,4.7,34,5,Michael Gottlieb,Adventure,13406717,25981285,1995,Not based on books,Not found
+Toy Story,81,30000000,373600000,1995-11-19,8.3,95,100,John Lasseter,Adventure,191796233,370409631,1995,Not based on books,Not found
+Muppet Treasure Island,100,31000000,34300000,1996-02-16,7.0,64,73,Brian Henson,Adventure,34327391,65470567,1996,Treasure Island,Robert Louis Stevenson
+James and the Giant Peach,79,38000000,28900000,1996-04-12,6.7,78,91,Henry Selick,Adventure,28921264,55159783,1996,James and the Giant Peach,Roald Dahl
+The Hunchback of Notre Dame,91,100000000,325300000,1996-06-21,6.9,74,71,"['Gary Trousdale', 'Kirk Wise']",Adventure,100138851,190988799,1996,The Hunchback of Notre-Dame,Victor Hugo
+First Kid,101,15000000,26491793,1996-08-30,5.3,48,20,David M. Evans,Comedy,26465920,50465108,1996,Not based on books,Not found
+101 Dalmatians,103,75000000,320700000,1996-11-27,5.7,49,41,Stephen Herek,Comedy,153000000,1362870985,1996,The Hundred and One Dalmatians,Dodie Smith
+Jungle 2 Jungle,105,32000000,59900000,1997-03-07,5.2,42,19,John Pasquin,Comedy,59925026,110058379,1997,Not based on books,Not found
+Hercules,93,85000000,252700000,1997-06-13,7.3,74,84,"['Ron Clements', 'John Musker']",Adventure,99112101,182029412,1997,Heracles,Not found
+Flubber,93,80000000,178000000,1997-11-16,5.3,37,24,Les Mayfield,Comedy,92993801,170406423,1997,A Situation of Gravity,Samuel W. Taylor The Absent-Minded Professor  1961  by Bill Walsh
+Mr. Magoo,87,30000000,28900000,1997-12-25,4.0,18,7,Stanley Tong,Comedy,21437192,39145784,1997,Mr. Magoo,Millard Kaufman John Hubley
+Mulan,87,90000000,304300000,1998-06-19,7.6,71,86,"['Barry Cook', 'Tony Bancroft']",Adventure,120620254,216807832,1998,Ballad of Mulan,Guo Maoqian
+A Bug's Life,95,120000000,363300000,1998-11-20,7.2,77,92,John Lasseter,Adventure,162798565,288981698,1998,Not based on books,Not found
+Mighty Joe Young,114,90000000,50600000,1998-12-25,5.6,51,54,Ron Underwood,Adventure,50632037,87906042,1998,Mighty Joe Young,Merian C. Cooper Ruth Rose
+My Favorite Martian,93,65000000,36800000,1999-02-12,5.1,33,12,Donald Petrie,Comedy,36850101,61150849,1999,My Favorite Martian created,John L. Greene
+Tarzan,88,130000000,448200000,1999-06-12,7.3,79,89,"['Kevin Lima', 'Chris Buck']",Adventure,171091819,283900254,1999,Tarzan of the Apes,Edgar Rice Burroughs
+Inspector Gadget,78,90000000,134400000,1999-07-23,4.1,36,21,David Kellogg,Comedy,97387965,161610341,1999,Inspector Gadget,Andy Heyward Jean Chalopin Bruno Bianchi
+Toy Story 2,92,90000000,497400000,1999-11-13,7.9,88,100,John Lasseter,Adventure,245852179,404450426,1999,Not based on books,Not found
+The Tigger Movie,77,15000000,96200000,2000-02-11,6.3,53,62,Jun Falkenstein,Adventure,45542421,71228678,2000,Characters created,A. A. Milne
+Dinosaur,82,127500000,349800000,2000-05-19,6.5,56,64,"['Ralph Zondag', 'Eric Leighton']",Adventure,137748063,215438985,2000,Not based on books,Not found
+102 Dalmatians,100,85000000,183600000,2000-11-22,4.9,35,31,Kevin Lima,Comedy,66941559,104055039,2000,Not based on books,Not found
+The Emperor's New Groove,78,100000000,169300000,2000-12-15,7.3,70,85,Mark Dindal,Adventure,89296573,136789252,2000,Kingdom of the Sun,Roger Allers Matthew Jacobs
+Recess  School's Out,83,23000000,44500000,2001-02-10,6.6,43,60,Chuck Sheetz,Comedy,36696761,54656124,2001,Recess,Paul Germain Joe Ansolabehere
+Atlantis  The Lost Empire,96,90000000,186100000,2001-06-03,6.9,52,49,"['Gary Trousdale', 'Kirk Wise']",Adventure,84052762,125188122,2001,Not based on books,Not found
+The Princess Diaries,115,26000000,165300000,2001-08-03,6.3,52,48,Garry Marshall,Comedy,108244774,161218928,2001,The Princess Diaries,Meg Cabot
+Max Keeble's Big Move,86,25000000,18600000,2001-10-05,5.4,40,29,Tim Hill,Comedy,17292381,25749730,2001,Not based on books,Not found
+"Monsters, Inc.",92,115000000,577400000,2001-10-28,8.0,79,96,Pete Docter,Adventure,289423425,416073179,2001,Not based on books,Not found
+Snow Dogs,99,33000000,115000000,2002-01-18,5.2,29,25,Brian Levant,Comedy,81150692,117745317,2002,Winterdance,Gary Paulsen
+The Rookie,128,22000000,80700000,2002-03-29,6.9,72,84,John Lee Hancock,Drama,75600072,109691666,2002,Not based on books,Not found
+Lilo   Stitch,85,80000000,273100000,2002-06-21,7.2,73,86,"['Chris Sanders', 'Dean DeBlois']",Adventure,145771527,211506702,2002,Not based on books,Not found
+The Country Bears,88,35000000,18000000,2002-07-21,4.1,37,31,Peter Hastings,Adventure,16988996,24650121,2002,Walt Disney 's Country Bear Jamboree,Not found
+Tuck Everlasting,96,15000000,19300000,2002-10-11,6.6,66,60,Jay Russell,Drama,19161999,27789959,2002,Tuck Everlasting,Natalie Babbitt
+The Santa Clause 2,104,65000000,172900000,2002-11-01,5.6,48,56,Michael Lembeck,Comedy,139225854,201959095,2002,Characters created,Leo Benvenuti Steve Rudnick
+Treasure Planet,95,140000000,109600000,2002-11-27,7.2,60,69,"['Ron Clements', 'John Musker']",Adventure,38120554,55189145,2002,Treasure Island,Robert Louis Stevenson
+The Jungle Book 2,72,20000000,135700000,2003-02-14,5.4,38,19,Steve Trenbirth,Adventure,47901582,66966883,2003,Not based on books,Not found
+Piglet's Big Movie,75,46000000,62900000,2003-03-16,6.1,62,70,Francis Glebas,Comedy,23103423,32298812,2003,Winnie the Pooh and The House at Pooh Corner created,A. A. Milne
+Ghosts of the Abyss,61,13000000,28700000,2003-03-31,6.8,67,80,James Cameron,Documentary,17093668,23803108,2003,Not based on books,Not found
+Holes,117,20000000,71400000,2003-04-18,7.0,71,78,Andrew Davis,Drama,67383924,94203395,2003,Holes,Louis Sachar
+The Lizzie McGuire Movie,94,17000000,55500000,2003-05-02,5.5,56,41,Jim Fall,Comedy,42734455,59743191,2003,Lizzie McGuire,Terri Minsky
+Finding Nemo,100,94000000,940300000,2003-05-30,8.1,90,99,Andrew Stanton,Adventure,380529370,518148559,2003,Not based on books,Not found
+Brother Bear,85,46000000,250400000,2003-11-01,6.8,48,37,"['Aaron Blaise', 'Robert Walker']",Adventure,85336277,119218333,2003,Not based on books,Not found
+The Haunted Mansion,86,90000000,182300000,2003-11-26,5.0,34,14,Rob Minkoff,Comedy,75817994,105775678,2003,The Haunted Mansion,Walt Disney
+Miracle,136,28000000,64500000,2004-02-06,7.5,68,81,Gavin O'Connor,Drama,64378093,87392478,2004,Not based on books,Not found
+Confessions of a Teenage Drama Queen,89,15000000,33100000,2004-02-20,4.7,33,14,Sara Sugarman,Comedy,29331068,39816568,2004,Confessions of a Teenage Drama Queen,Dyan Sheldon
+Home on the Range,76,110000000,145500000,2004-04-02,5.3,50,53,"['Will Finn', 'John Sanford']",Comedy,50026353,67910166,2004,Not based on books,Not found
+Around the World in 80 Days,120,110000000,72200000,2004-06-13,5.9,49,32,Frank Coraci,Adventure,24004159,32585356,2004,Around the World in Eighty Days,Jules Verne
+The Princess Diaries 2  Royal Engagement,113,45000000,134700000,2004-08-11,5.8,43,26,Garry Marshall,Romantic Comedy,95149435,129164207,2004,Characters,Meg Cabot
+National Treasure,131,100000000,347500000,2004-11-19,6.9,39,46,Jon Turteltaub,Adventure,173005002,234069353,2004,Not based on books,Not found
+Pooh's Heffalump Movie,68,20000000,52900000,2005-02-11,6.4,64,80,Frank Nissen,Adventure,18098433,23801835,2005,Characters created,A. A. Milne
+The Pacifier,95,56000000,198600000,2005-03-04,5.6,30,21,Adam Shankman,Comedy,113006880,148619029,2005,Not based on books,Not found
+Ice Princess,97,25000000,27600000,2005-03-18,6.0,55,52,Tim Fywell,Comedy,24381334,32064685,2005,Not based on books,Not found
+Herbie  Fully Loaded,101,50000000,144100000,2005-06-22,4.8,47,41,Angela Robinson,Comedy,66010682,86812798,2005,Characters,Gordon Buford
+Sky High,100,35000000,86400000,2005-07-29,6.2,62,73,Mike Mitchell,Adventure,63939454,84088854,2005,Not based on books,Not found
+Valiant,76,35000000,61700000,2005-03-25,5.5,45,32,Gary Chapman,Adventure,19478106,25616292,2005,Not based on books,Not found
+The Greatest Game Ever Played,120,25000000,15400000,2005-09-30,7.4,55,63,Bill Paxton,Drama,15331289,20162672,2005,The Greatest Game Ever Played  A True Story,Mark Frost
+Chicken Little,81,150000000,314400000,2005-10-30,5.7,48,37,Mark Dindal,Adventure,135386665,177954661,2005,Chicken Little,Not found
+Roving Mars,40,1000000,11000000,2006-01-27,7.2,58,71,George Butler,Documentary,10407978,12948025,2006,Not based on books,Not found
+Eight Below,120,40000000,120500000,2006-02-17,7.3,64,73,Frank Marshall,Adventure,81612565,105037235,2006,Toshirô Ishidô Koreyoshi Kurahara Tatsuo Nogami Susumu Saji,Not found
+The Wild,82,80000000,102300000,2006-04-14,5.3,47,50,Steve  Spaz  Williams,Adventure,37384046,48114115,2006,Not based on books,Not found
+Cars,117,120000000,462000000,2006-05-26,7.1,73,75,John Lasseter,Comedy,244082982,314140384,2006,Not based on books,Not found
+Invincible,104,30000000,58500000,2006-08-25,7.1,63,72,Ericson Core,Drama,57806952,74398864,2006,Not based on books,Not found
+The Nightmare Before Christmas,76,18000000,89100000,1993-10-29,8.0,82,95,Henry Selick,Musical,50408318,100026637,1993,Characters,Tim Burton
+The Santa Clause 3  The Escape Clause,92,12000000,110800000,2006-11-03,4.7,32,17,Michael Lembeck,Comedy,84500122,108694869,2006,Characters created,Leo Benvenuti Steve Rudnick Karey Kirkpatrick
+Bridge to Terabithia,95,20000000,138000000,2007-02-16,7.1,74,85,Gábor Csupó,Drama,82234139,100760721,2007,Bridge to Terabithia,Katherine Paterson
+Ratatouille,111,150000000,620700000,2007-06-22,8.0,96,96,Brad Bird,Comedy,206445654,252955933,2007,Not based on books,Not found
+Underdog,82,25000000,65300000,2007-08-03,4.7,37,14,Frederik Du Chau,Adventure,43760605,53619462,2007,W. Watts Biggers,Not found
+The Game Plan,110,22000000,146600000,2007-09-23,6.1,44,28,Andy Fickman,Comedy,90648202,111010758,2007,Not based on books,Not found
+Enchanted,107,85000000,340500000,2007-10-20,7.0,75,93,Kevin Lima,Romantic Comedy,127706877,156074310,2007,Not based on books,Not found
+College Road Trip,83,25000000,51500000,2008-03-07,4.3,36,12,Roger Kumble,Comedy,45610425,53550960,2008,Not based on books,Not found
+The Chronicles of Narnia  Prince Caspian,150,225000000,419700000,2008-05-07,6.5,62,67,Andrew Adamson,Adventure,141621490,166277038,2008,Prince Caspian,C. S. Lewis
+WALL-E,97,180000000,533300000,2008-06-23,8.4,95,95,Andrew Stanton,Adventure,223808164,262771918,2008,Not based on books,Not found
+Beverly Hills Chihuahua,91,20000000,149300000,2008-09-26,3.8,41,40,Raja Gosnell,Comedy,94514402,110932022,2008,Not based on books,Not found
+Bolt,96,150000000,310000000,2008-11-21,6.8,67,89,"['Chris Williams', 'Byron Howard']",Comedy,114053759,133702498,2008,Not based on books,Not found
+Bedtime Stories,99,80000000,212900000,2008-12-25,6.0,33,27,Adam Shankman,Comedy,110101975,128039679,2008,Not based on books,Not found
+Race to Witch Mountain,98,50000000,106400000,2009-03-11,5.7,52,43,Andy Fickman,Adventure,67172594,75501997,2009,Escape to Witch Mountain,Alexander Key
+Earth,99,47000000,109000000,2007-10-10,8.0,72,86,"['Alastair Fothergill', 'Mark Linfield']",Documentary,32011576,35981010,2007,Not based on books,Not found
+Up,96,175000000,735100000,2009-05-29,8.2,88,98,Pete Docter,Adventure,293004164,329336681,2009,Not based on books,Not found
+G-Force,90,150000000,292800000,2009-07-24,5.1,41,22,Hoyt H. Yeatman Jr.,Adventure,119436770,134246932,2009,Not based on books,Not found
+Old Dogs,88,35000000,96800000,2009-11-25,5.4,19,5,Walt Becker,Comedy,49492060,55503929,2009,Not based on books,Not found
+The Princess and the Frog,97,105000000,269000000,2009-11-25,7.1,73,85,"['Ron Clements', 'John Musker']",Adventure,104400899,116316457,2009,The Frog Prince,Brothers Grimm The Frog Princess by E. D. Baker
+Oceans,104,80000000,82700000,2009-10-17,7.8,75,81,"['Jacques Perrin', 'Jacques Cluzaud', ' co-director ']",Documentary,19422319,20751600,2009,Not based on books,Not found
+Toy Story 3,103,200000000,1067000000,2010-06-12,8.3,92,98,Lee Unkrich,Adventure,415004880,443408255,2010,Not based on books,Not found
+The Sorcerer's Apprentice,109,150000000,215300000,2010-07-08,6.1,46,40,Jon Turteltaub,Adventure,63150991,67473105,2010,The Sorcerer's Apprentice,Johann Wolfgang von Goethe
+Secretariat,123,35000000,60300000,2010-09-30,7.2,61,63,Randall Wallace,Drama,59699513,63781920,2010,Not based on books,Not found
+Tangled,100,260000000,592400000,2010-11-14,7.7,71,89,"['Nathan Greno', 'Byron Howard']",Adventure,200821936,214388548,2010,Rapunzel,the Brothers Grimm
+Tron  Legacy,125,150000000,410000000,2010-11-30,6.8,49,51,Joseph Kosinski,Adventure,172062763,183619259,2010,Steven Lisberger Bonnie MacBird,Not found
+Mars Needs Moms,88,150000000,39200000,2011-03-11,5.4,49,37,Simon Wells,Adventure,21392758,22741603,2011,Mars Needs Moms ,Berkeley Breathed
+African Cats,89,5000000,30900000,2011-04-22,7.6,61,73,"['Alastair Fothergill', 'Keith Scholey']",Documentary,15428747,16401551,2011,Not based on books,Not found
+Prom,104,8000000,10100000,2011-04-29,5.4,50,36,Joe Nussbaum,Comedy,10130219,10768946,2011,Not based on books,Not found
+Cars 2,106,200000000,562100000,2011-06-18,6.1,57,39,John Lasseter,Adventure,191450875,203522177,2011,Not based on books,Not found
+Winnie the Pooh,69,30000000,50100000,2011-04-06,7.2,74,91,"['Stephen J. Anderson', 'Don Hall']",Adventure,26692846,28375869,2011,A. A. Milne,Not found
+The Muppets,103,45000000,165200000,2011-11-04,7.1,75,95,James Bobin,Comedy,88625922,94189503,2011,Disney's Muppet characters and properties,Not found
+John Carter,132,306600000,284100000,2012-02-22,6.6,51,52,Andrew Stanton,Adventure,73058679,77372445,2012,A Princess of Mars,Edgar Rice Burroughs
+Chimpanzee,77,5000000,34800000,2012-04-20,7.2,57,76,"['Alastair Fothergill', 'Mark Linfield']",Documentary,28965459,30675725,2012,Not based on books,Not found
+Brave,93,185000000,540400000,2012-06-10,7.1,69,78,"['Mark Andrews', 'Brenda Chapman']",Adventure,237282182,251292441,2012,Not based on books,Not found
+The Odd Life of Timothy Green,104,25000000,56000000,2012-08-15,6.6,47,36,Peter Hedges,Drama,51853450,54914942,2012,Not based on books,Not found
+Frankenweenie,87,39000000,81500000,2012-09-20,6.9,74,87,Tim Burton,Comedy,35287788,37363513,2012,Tim Burton Lenny Ripps,Not found
+Wreck-It Ralph,101,165000000,471200000,2012-10-29,7.7,72,87,Rich Moore,Adventure,189412677,200354959,2012,Not based on books,Not found
+Oz the Great and Powerful,130,200000000,493300000,2013-02-14,6.3,44,57,Sam Raimi,Adventure,234770996,243434130,2013,Oz,L. Frank Baum
+Monsters University,104,200000000,743600000,2013-06-05,7.3,65,80,Dan Scanlon,Adventure,268488329,278395641,2013,Not based on books,Not found
+The Lone Ranger,149,225000000,260500000,2013-06-22,6.4,37,30,Gore Verbinski,Western,89302115,92597388,2013,Fran Striker George W. Trendle,Not found
+Frozen,102,150000000,1280000000,2013-11-19,7.4,75,90,"['Chris Buck', 'Jennifer Lee']",Adventure,400738009,414997174,2013,Not based on books,Not found
+Saving Mr. Banks,125,35000000,117900000,2013-10-20,7.5,65,79,John Lee Hancock,Drama,83299761,86249969,2013,Not based on books,Not found
+Muppets Most Wanted,107,51000000,80400000,2014-03-11,6.4,61,80,James Bobin,Comedy,51178893,52807594,2014,Disney's Muppet characters and properties,Not found
+Bears,77,5000000,21300000,2014-04-18,7.4,68,90,"['Alastair Fothergill', 'Keith Scholey']",Documentary,17780194,18346024,2014,Not based on books,Not found
+Million Dollar Arm,124,25000000,39200000,2014-05-06,7.0,56,65,Craig Gillespie,Drama,36447959,37607865,2014,Not based on books,Not found
+Maleficent,97,180000000,758500000,2014-05-28,7.0,56,54,Robert Stromberg,Adventure,241407328,249089809,2014,Disney's Sleeping Beauty and La Belle au bois dormant written,Charles Perrault
+Big Hero 6,102,165000000,657800000,2014-10-23,7.8,74,89,"['Don Hall', 'Chris Williams']",Adventure,222527828,229249222,2014,Man of Action,Not found
+Into the Woods,124,50000000,213100000,2014-12-08,5.9,69,71,Rob Marshall,Musical,128002372,130894237,2014,Into the Woods,Stephen Sondheim James Lapine
+"McFarland, USA",129,25000000,45700000,2015-02-09,7.4,60,81,Niki Caro,Drama,44480275,44480275,2015,Not based on books,Not found
+Monkey Kingdom,82,5000000,17100000,2015-04-17,7.3,72,93,"['Mark Linfield', 'Alastair Fothergill']",Documentary,16432322,16432322,2015,Not based on books,Not found
+Tomorrowland,130,180000000,209000000,2015-05-09,6.4,60,50,Brad Bird,Adventure,93436322,93436322,2015,Not based on books,Not found
+Inside Out,94,175000000,858000000,2015-05-18,8.1,94,98,Pete Docter,Adventure,356461711,356461711,2015,Not based on books,Not found
+The Good Dinosaur,94,175000000,332200000,2015-11-10,6.7,66,76,Peter Sohn,Adventure,123087120,123087120,2015,Not based on books,Not found
+The Finest Hours,117,70000000,52100000,2016-01-25,6.8,58,63,Craig Gillespie,Thriller/Suspense,27569558,27569558,2016,The Finest Hours  The True Story of the U.S. Coast Guard's Most Daring Sea Rescue,Michael J. Tougias and Casey Sherman
+Zootopia,108,150000000,1024000000,2016-02-13,8.0,78,98,"['Byron Howard', 'Rich Moore']",Adventure,341268248,341268248,2016,Not based on books,Not found
+Alice Through the Looking Glass,113,170000000,300000000,2016-05-10,6.2,34,29,James Bobin,Adventure,77042381,77042381,2016,Characters,Lewis Carroll
+Finding Dory,97,175000000,1029000000,2016-06-08,7.3,77,94,Andrew Stanton,Adventure,486295561,486295561,2016,Not based on books,Not found
+The BFG,117,140000000,195200000,2016-05-14,6.4,66,74,Steven Spielberg,Adventure,55483770,55483770,2016,The BFG,Roald Dahl
+Queen of Katwe,124,15000000,10400000,2016-09-10,7.4,73,93,Mira Nair,Drama,8874389,8874389,2016,The Queen of Katwe,Tim Crothers
+Moana,107,150000000,690800000,2016-11-14,7.6,81,95,"['Ron Clements', 'John Musker']",Adventure,246082029,246082029,2016,Not based on books,Not found
