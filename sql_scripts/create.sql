@@ -8,16 +8,16 @@ DROP TABLE IF EXISTS genre;
 DROP TABLE IF EXISTS directors;
 
 CREATE TABLE genre(
-    genre_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    genre_id INT AUTO_INCREMENT PRIMARY KEY,
     genre VARCHAR(255) NOT NULL
 );
 CREATE TABLE directors(
-    director_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    director_id INT AUTO_INCREMENT PRIMARY KEY,
     directed_by TEXT NOT NULL
 );
 
 CREATE TABLE movies(
-    movie_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    movie_id INT AUTO_INCREMENT PRIMARY KEY,
     title VARCHAR(255) NOT NULL,
     running_time INT NOT NULL,
     budget FLOAT(53) NOT NULL,
@@ -30,7 +30,7 @@ CREATE TABLE movies(
     );
     
 CREATE TABLE reviews(
-    review_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    review_id INT AUTO_INCREMENT PRIMARY KEY,
     movie_id INT NOT NULL,
     imdb INT NOT NULL,
     metascore INT NOT NULL,
@@ -39,9 +39,9 @@ CREATE TABLE reviews(
 );
 
 CREATE TABLE adaptations(
-    adaptation_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    adaptation_id INT AUTO_INCREMENT PRIMARY KEY,
     movie_id INT NOT NULL,
     book_title TEXT NOT NULL,
     book_writer TEXT NOT NULL,
     FOREIGN KEY(movie_id) REFERENCES movies(movie_id)
-);
+);directors
