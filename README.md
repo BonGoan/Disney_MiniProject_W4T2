@@ -13,7 +13,8 @@ By analyzing two datasets, we want to know:
 To achieve our project on time, we used Trello for project management and collaboration, assigning tasks and tracking our progress. Trello also served as our roadmap, guiding us trough each phase of the project. 🛣️
 https://trello.com/b/ly81XNkT/week4team2 
 
-![image](https://github.com/user-attachments/assets/298367d7-84be-4765-bba0-012efbed43dd)
+<img width="706" alt="image" src="https://github.com/user-attachments/assets/b4e13d04-c580-409b-8cd6-dce6081af668"> 
+
  
 ## :bulb: Hypothesis:bulb: 
 
@@ -63,8 +64,9 @@ Our final presentation consolidated these insights, featuring key findings, visu
 ### Entity Relationship Diagram (ERD) 🔃
 For this project we design the relationships between the main entities: 'movies', 'genres', 'reviews"...
 The 'movies' table is central, linked to the other via foreing keys. This design ensure data normalization and efficient querying. The ERD served as the foundation for our SQL script, which was created to implement this schema in the MySQL database
+![image](https://github.com/user-attachments/assets/7214ce70-39a1-46a6-b8ba-75bf7ebc129c)
 
-![movies-ERD](https://github.com/user-attachments/assets/bc1c4914-389f-4cd1-a12b-b3b686097d96)
+ 
 
 ### Presentation
 [Link to the presentation slides.](https://docs.google.com/presentation/d/1RjEOumWA06BTXC7TY6ClzYhru_jVVfAvo21y0gAFp_s/edit#slide=id.p1)
@@ -74,7 +76,7 @@ Our analysis of Disney movies revelead several key insights :
 #### Critical reception and Box office performance: ✔️
 There was a noticeable correlation between higher critical scores and box office succes, indicating that cricital cclaim may influence financial outcomes.
 #### Running Time and Popularity: ✖️
-There is a weak correlation between imdb ratings and running time. Longer movies tend to be more favorably received or possibly that they are more consistent in quality, while shorter movies might vary more widely in audience reception. There are factors other than the length of movies that influence ratings/popularity.
+There is a weak correlation between popularity and running time. Longer movies tend to be more favorably received or possibly that they are more consistent in quality, while shorter movies might vary more widely in audience reception. There are factors other than the length of movies that influence ratings/popularity.
 There was no strong correlation between running time and box office performance, suggesting that factors other than length drive a movie's succes. 
 #### Impact of Source Material: ✔️
 Movies based on books or novels generally performed better un terms of IMDb ratings, supporting the hypothesis that existing fanbases contribute to popularity. 
